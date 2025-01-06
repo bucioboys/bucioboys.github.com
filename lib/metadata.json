@@ -1,37 +1,11 @@
 {
   "vaultName": "Travel-Vault",
-  "lastExport": 1722706763729,
+  "lastExport": 1736193528329,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon outliner-plugin-dnd ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-file-icons anp-card-layout",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
-    "allegati/Pasted image 20231108100023.png",
-    "allegati/Pasted image 20240109154118.png",
-    "allegati/Pasted image 20240109154335.png",
-    "allegati/Pasted image 20240109154532.png",
-    "allegati/Pasted image 20240109154659.png",
-    "allegati/Pasted image 20240109155043.png",
-    "allegati/Pasted image 20240315124253.png",
-    "allegati/Pasted image 20240315124351.png",
-    "allegati/Pasted image 20240315125222.png",
-    "allegati/Pasted image 20240315132517.png",
-    "allegati/Pasted image 20240315132537.png",
-    "allegati/Pasted image 20240315132546.png",
-    "allegati/Pasted image 20240315132557.png",
-    "allegati/Pasted image 20240315132603.png",
-    "allegati/Pasted image 20240315141212.png",
-    "allegati/Pasted image 20240315143254.png",
-    "allegati/Pasted image 20240315143301.png",
-    "allegati/Pasted image 20240315143551.png",
-    "allegati/Pasted image 20240315143605.png",
-    "allegati/Pasted image 20240315151037.png",
-    "allegati/Pasted image 20240405124412.png",
-    "allegati/Pasted image 20240405125139.png",
-    "allegati/Pasted image 20240523103142.png",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
     "Info/Japan/IC Cards/IC Cards.md",
@@ -41,12 +15,15 @@
     "Info/Japan/Pass/JR pass.md",
     "Info/Japan/Pass/Osaka Amazing pass.md",
     "Info/Japan/Voli/Test per riferimento.md",
+    "Info/Japan/Viaggiare Sicuri.md",
     "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
     "Itinerari/Japan/Esterni/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
@@ -145,7 +122,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
     "lib/fonts/MathJax_Main-Bold.woff",
@@ -184,7 +160,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
     "lib/fonts/MathJax_Main-Bold.woff",
@@ -209,976 +184,832 @@
     "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1368,
-      "exportedPath": "lib/fonts/MathJax_Zero.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 34160,
-      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 34464,
-      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 19360,
-      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 20832,
-      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 19776,
-      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 5792,
-      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 5464,
-      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 3244,
-      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 5148,
-      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 40808,
-      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 9600,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 9908,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 21480,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 22340,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 12660,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 15944,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 14628,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 11852,
-      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 17604,
-      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1136,
-      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1116,
-      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
-      "dependencies": []
-    },
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 71507,
-      "exportedPath": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
-      "dependencies": []
-    },
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 93320,
-      "exportedPath": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
-      "dependencies": []
-    },
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 90260,
-      "exportedPath": "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20231108100023.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 102559,
-      "exportedPath": "allegati/Pasted image 20231108100023.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240109154118.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 29997,
-      "exportedPath": "allegati/Pasted image 20240109154118.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240109154335.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 31197,
-      "exportedPath": "allegati/Pasted image 20240109154335.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240109154532.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 28907,
-      "exportedPath": "allegati/Pasted image 20240109154532.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240109154659.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 23635,
-      "exportedPath": "allegati/Pasted image 20240109154659.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240109155043.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 19873,
-      "exportedPath": "allegati/Pasted image 20240109155043.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315124253.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 149143,
-      "exportedPath": "allegati/Pasted image 20240315124253.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315124351.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 752456,
-      "exportedPath": "allegati/Pasted image 20240315124351.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315125222.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 438593,
-      "exportedPath": "allegati/Pasted image 20240315125222.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315132517.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 831917,
-      "exportedPath": "allegati/Pasted image 20240315132517.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315132537.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1494731,
-      "exportedPath": "allegati/Pasted image 20240315132537.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315132546.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 510331,
-      "exportedPath": "allegati/Pasted image 20240315132546.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315132557.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 950373,
-      "exportedPath": "allegati/Pasted image 20240315132557.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315132603.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 423942,
-      "exportedPath": "allegati/Pasted image 20240315132603.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315141212.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 2202115,
-      "exportedPath": "allegati/Pasted image 20240315141212.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315143254.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 2459433,
-      "exportedPath": "allegati/Pasted image 20240315143254.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315143301.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1946102,
-      "exportedPath": "allegati/Pasted image 20240315143301.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315143551.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 3042490,
-      "exportedPath": "allegati/Pasted image 20240315143551.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315143605.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 3917419,
-      "exportedPath": "allegati/Pasted image 20240315143605.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240315151037.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 1249685,
-      "exportedPath": "allegati/Pasted image 20240315151037.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240405124412.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 81194,
-      "exportedPath": "allegati/Pasted image 20240405124412.png",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240405125139.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 29792,
-      "exportedPath": "allegati/Pasted image 20240405125139.png",
-      "dependencies": []
-    },
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1040706,
       "exportedPath": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
       "dependencies": []
     },
-    "Index.md": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 3335,
-      "exportedPath": "Index.html",
-      "dependencies": []
-    },
-    "allegati/Pasted image 20240523103142.png": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 22664,
-      "exportedPath": "allegati/Pasted image 20240523103142.png",
-      "dependencies": []
-    },
     "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 16929,
       "exportedPath": "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.html",
       "dependencies": []
     },
     "Info/Japan/IC Cards/IC Cards.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 28250,
       "exportedPath": "Info/Japan/IC Cards/IC Cards.html",
       "dependencies": []
     },
     "Info/Japan/IC Cards/Icoca.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 7677,
       "exportedPath": "Info/Japan/IC Cards/Icoca.html",
       "dependencies": []
     },
     "Info/Japan/IC Cards/Pasmo.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 13946,
       "exportedPath": "Info/Japan/IC Cards/Pasmo.html",
       "dependencies": []
     },
     "Info/Japan/IC Cards/Suica.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 8633,
       "exportedPath": "Info/Japan/IC Cards/Suica.html",
       "dependencies": []
     },
     "Info/Japan/Pass/JR pass.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 15049,
       "exportedPath": "Info/Japan/Pass/JR pass.html",
       "dependencies": []
     },
     "Info/Japan/Pass/Osaka Amazing pass.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3280,
       "exportedPath": "Info/Japan/Pass/Osaka Amazing pass.html",
       "dependencies": []
     },
     "Info/Japan/Voli/Test per riferimento.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 751,
       "exportedPath": "Info/Japan/Voli/Test per riferimento.html",
       "dependencies": []
     },
+    "Info/Japan/Viaggiare Sicuri.md": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 31050,
+      "exportedPath": "Info/Japan/Viaggiare Sicuri.html",
+      "dependencies": []
+    },
     "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5136,
       "exportedPath": "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.html",
       "dependencies": []
     },
     "Itinerari/Japan/Esterni/Rail Adventure SiVola.it (14 gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2005,
       "exportedPath": "Itinerari/Japan/Esterni/Rail Adventure SiVola.it (14 gg).html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1500,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1768,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4588,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4177,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).html",
       "dependencies": []
     },
+    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 15666,
+      "exportedPath": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).html",
+      "dependencies": []
+    },
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 3580,
+      "exportedPath": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).html",
+      "dependencies": []
+    },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5669,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6759,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5625,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6194,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5756,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6938,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.html",
       "dependencies": []
     },
     "Itinerari/Japan/Solo con i luoghi/16 giorni/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6385,
       "exportedPath": "Itinerari/Japan/Solo con i luoghi/16 giorni/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).html",
       "dependencies": []
     },
     "Locations/Japan/Buildings/Rainbow Bridge (レインボーブリッジ).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3020,
       "exportedPath": "Locations/Japan/Buildings/Rainbow Bridge (レインボーブリッジ).html",
       "dependencies": []
     },
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3688,
       "exportedPath": "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).html",
       "dependencies": []
     },
     "Locations/Japan/Buildings/Tokyo tower (東京タワー).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4524,
       "exportedPath": "Locations/Japan/Buildings/Tokyo tower (東京タワー).html",
       "dependencies": []
     },
     "Locations/Japan/Buildings/Torre Tsutenkaku (通天閣).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3036,
       "exportedPath": "Locations/Japan/Buildings/Torre Tsutenkaku (通天閣).html",
       "dependencies": []
     },
     "Locations/Japan/Buildings/Umeda Sky Building (梅田スカイビル).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2965,
       "exportedPath": "Locations/Japan/Buildings/Umeda Sky Building (梅田スカイビル).html",
       "dependencies": []
     },
     "Locations/Japan/Castles/Castello di Osaka (大阪城).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6425,
       "exportedPath": "Locations/Japan/Castles/Castello di Osaka (大阪城).html",
       "dependencies": []
     },
     "Locations/Japan/Castles/Palazzo Imperiale di Tokyo (皇居).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3231,
       "exportedPath": "Locations/Japan/Castles/Palazzo Imperiale di Tokyo (皇居).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3693,
       "exportedPath": "Locations/Japan/Cities/blocks/streets/Golden Gai (ゴールデン街 ).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5365,
       "exportedPath": "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/streets/Hondori street.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1463,
       "exportedPath": "Locations/Japan/Cities/blocks/streets/Hondori street.html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4356,
       "exportedPath": "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Akihabara (秋葉原).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5346,
       "exportedPath": "Locations/Japan/Cities/blocks/Akihabara (秋葉原).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Asakusa(浅草).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 7076,
       "exportedPath": "Locations/Japan/Cities/blocks/Asakusa(浅草).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Dotonbori (道頓堀).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5708,
       "exportedPath": "Locations/Japan/Cities/blocks/Dotonbori (道頓堀).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Ginza (銀座).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3948,
       "exportedPath": "Locations/Japan/Cities/blocks/Ginza (銀座).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Nagarekawa (流川).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 654,
       "exportedPath": "Locations/Japan/Cities/blocks/Nagarekawa (流川).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Nakano (中野市).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2630,
       "exportedPath": "Locations/Japan/Cities/blocks/Nakano (中野市).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Odaiba (お台場 ).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 7893,
       "exportedPath": "Locations/Japan/Cities/blocks/Odaiba (お台場 ).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Quartiere Gion (祇園).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4897,
       "exportedPath": "Locations/Japan/Cities/blocks/Quartiere Gion (祇園).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Roppongi (六本木).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 8732,
       "exportedPath": "Locations/Japan/Cities/blocks/Roppongi (六本木).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6088,
       "exportedPath": "Locations/Japan/Cities/blocks/Shibuya (渋谷区).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5708,
       "exportedPath": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4356,
       "exportedPath": "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Fujiyoshida (富士吉田市).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3639,
       "exportedPath": "Locations/Japan/Cities/Fujiyoshida (富士吉田市).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Hiroshima(広島).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 614,
       "exportedPath": "Locations/Japan/Cities/Hiroshima(広島).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Kamakura(鎌倉市).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 9901,
       "exportedPath": "Locations/Japan/Cities/Kamakura(鎌倉市).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Kobe(神戸).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 235,
       "exportedPath": "Locations/Japan/Cities/Kobe(神戸).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Kyoto(京都).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1581,
       "exportedPath": "Locations/Japan/Cities/Kyoto(京都).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Miyajima (宮島).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 7521,
       "exportedPath": "Locations/Japan/Cities/Miyajima (宮島).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Nara (奈良市).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 9114,
       "exportedPath": "Locations/Japan/Cities/Nara (奈良市).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Osaka(大阪市).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1219,
       "exportedPath": "Locations/Japan/Cities/Osaka(大阪市).html",
       "dependencies": []
     },
     "Locations/Japan/Cities/Tokyo(東京).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2303,
       "exportedPath": "Locations/Japan/Cities/Tokyo(東京).html",
       "dependencies": []
     },
     "Locations/Japan/Hotels/Hotel-Hostel-Case-Appartamenti.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 823,
       "exportedPath": "Locations/Japan/Hotels/Hotel-Hostel-Case-Appartamenti.html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Arashiyama (嵐山).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6344,
       "exportedPath": "Locations/Japan/Parks-nature/Arashiyama (嵐山).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Kaiyukan aquarium (海遊館).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4005,
       "exportedPath": "Locations/Japan/Parks-nature/Kaiyukan aquarium (海遊館).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Mario kart ride.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 12179,
       "exportedPath": "Locations/Japan/Parks-nature/Mario kart ride.html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Memorial Park Hiroshima.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6178,
       "exportedPath": "Locations/Japan/Parks-nature/Memorial Park Hiroshima.html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Monte Misen (弥山).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3159,
       "exportedPath": "Locations/Japan/Parks-nature/Monte Misen (弥山).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Parco di Ueno (上野恩賜公園).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 8901,
       "exportedPath": "Locations/Japan/Parks-nature/Parco di Ueno (上野恩賜公園).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Sentiero del filosofo (哲学の道).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3137,
       "exportedPath": "Locations/Japan/Parks-nature/Sentiero del filosofo (哲学の道).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Teamlab botanical garden.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2890,
       "exportedPath": "Locations/Japan/Parks-nature/Teamlab botanical garden.html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 9471,
       "exportedPath": "Locations/Japan/Parks-nature/The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3304,
       "exportedPath": "Locations/Japan/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).html",
       "dependencies": []
     },
     "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6611,
       "exportedPath": "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).html",
       "dependencies": []
     },
     "Locations/Japan/Restaurants/Senza nome.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 0,
       "exportedPath": "Locations/Japan/Restaurants/Senza nome.html",
       "dependencies": []
     },
     "Locations/Japan/Stores/Mercato del pesce di Tsukiji (築地場外市場).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3132,
       "exportedPath": "Locations/Japan/Stores/Mercato del pesce di Tsukiji (築地場外市場).html",
       "dependencies": []
     },
     "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1418,
       "exportedPath": "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).html",
       "dependencies": []
     },
     "Locations/Japan/Stores/Nishiki Market (錦市場).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4811,
       "exportedPath": "Locations/Japan/Stores/Nishiki Market (錦市場).html",
       "dependencies": []
     },
     "Locations/Japan/Stores/Pokemon center Asakusa.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 171,
       "exportedPath": "Locations/Japan/Stores/Pokemon center Asakusa.html",
       "dependencies": []
     },
     "Locations/Japan/Stores/Pokemon center Shibuya.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 167,
       "exportedPath": "Locations/Japan/Stores/Pokemon center Shibuya.html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2666,
       "exportedPath": "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Chureito Pagoda (忠霊塔).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3204,
       "exportedPath": "Locations/Japan/Temples/Chureito Pagoda (忠霊塔).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3302,
       "exportedPath": "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5047,
       "exportedPath": "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4393,
       "exportedPath": "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Kanandorii (金鳥居).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 1287,
       "exportedPath": "Locations/Japan/Temples/Kanandorii (金鳥居).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Kinkaku-ji (金閣寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6039,
       "exportedPath": "Locations/Japan/Temples/Kinkaku-ji (金閣寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Kiyomizu-dera (清水寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4912,
       "exportedPath": "Locations/Japan/Temples/Kiyomizu-dera (清水寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Kodokan dojo judo (講道館).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 8729,
       "exportedPath": "Locations/Japan/Temples/Kodokan dojo judo (講道館).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5064,
       "exportedPath": "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Santuario Kanda (神田明神).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5749,
       "exportedPath": "Locations/Japan/Temples/Santuario Kanda (神田明神).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 6031,
+      "modifiedTime": 1736193528329,
+      "sourceSize": 6035,
       "exportedPath": "Locations/Japan/Temples/Santuario Meiji (明治神宮).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3726,
       "exportedPath": "Locations/Japan/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4184,
       "exportedPath": "Locations/Japan/Temples/Santuario Yasaka (八坂神社).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Daisho-in (大聖院).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 198,
       "exportedPath": "Locations/Japan/Temples/Tempio Daisho-in (大聖院).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3543,
       "exportedPath": "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 6374,
       "exportedPath": "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 3096,
       "exportedPath": "Locations/Japan/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2755,
       "exportedPath": "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5099,
       "exportedPath": "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Kencho-ji (建長寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 2763,
       "exportedPath": "Locations/Japan/Temples/Tempio Kencho-ji (建長寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4936,
       "exportedPath": "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4578,
       "exportedPath": "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 5446,
       "exportedPath": "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).html",
       "dependencies": []
     },
     "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4060,
       "exportedPath": "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).html",
       "dependencies": []
     },
     "Locations/Japan/Lista dei Luoghi.md": {
-      "modifiedTime": 1722706763729,
+      "modifiedTime": 1736193528329,
       "sourceSize": 4928,
       "exportedPath": "Locations/Japan/Lista dei Luoghi.html",
       "dependencies": []
     },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1722706763729,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "Index.md": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 2564,
+      "exportedPath": "Index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1736193528329,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
